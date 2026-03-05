@@ -1,6 +1,6 @@
 # Customer_Segmentation_System
 
- Updated: 2025 – Project revisited and improved
+ Updated: – Project revisited and improved
 
 # 🧠 Customer Segmentation Using K-Means
 
